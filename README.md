@@ -201,6 +201,7 @@ class FunctionTest extends TestCase
 Many other assertions can be found in [php unit docs - assertions](https://phpunit.readthedocs.io/en/9.5/assertions.html)
 
 ## Tips
+- Test methods should be public
 - Make your tests named as verbosely/descriptively as you can, this serves as documentation 
 - All tests should start with the name 'test' by default, otherwise the test wont run without further configuration 
 - If you would prefer to use snake case for example, and not include the word test every time, you can use the following syntax 
