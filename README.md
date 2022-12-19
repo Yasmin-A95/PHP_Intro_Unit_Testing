@@ -28,7 +28,7 @@
     - If you see something similar to the image below, celebrate 💃 
     - Else, debug
 
-![image displaying composer running in iterm2](assets/composer-terminal.png)
+![image displaying composer running in iterm2](./testing/assets/composer-terminal.png)
 
 4. Add PHPUnit to a local project
     - `cd` into your project directory 
